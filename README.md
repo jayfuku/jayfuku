@@ -5,7 +5,7 @@
 
 📖 I enjoy learning new things and take every opportunity to grow as both a person and as a coder.
 
-⚡ Outside of coding, I enjoy playing Puzzle & Dragons and the MCU!
+⚡ Outside of coding, I enjoy playing Puzzle & Dragons and Super Smash Bros!
 
 📫 You can reach me through direct messages on github!
 
