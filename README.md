@@ -25,7 +25,6 @@
 
 # 🥇 Notable Projects
 
-Unfortunately, I am unable to host some of these projects on github due to them being school assigments
 
 * **Othello Ai**, *C++*
   - Developed an Othello AI which went head to head against other Othello AIs
