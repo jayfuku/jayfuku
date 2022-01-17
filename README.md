@@ -3,7 +3,7 @@
 
 💼 I currenly work for **theCoderSchool Irvine** as a code coach where I teach children and teens how to code in languages such as **Scratch** and **Python**. I also develop programs for the students to recreate step-by-step in order to get practice with fundamental coding topics.
 
-📖 I enjoy learning new things and take every opportunity to grow as both a person and as a coder.
+📖 I enjoy learning new things and take every opportunity to grow as both a person and as a coder!
 
 ⚡ Outside of coding, I enjoy playing Puzzle & Dragons and Super Smash Bros!
 
