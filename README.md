@@ -7,7 +7,7 @@
 
 ⚡ Outside of coding, I enjoy playing Puzzle & Dragons and Super Smash Bros!
 
-📫 You can reach me through direct messages on github!
+📫 You can reach me through direct messages on github or connect with me through [LinkedIn](https://www.linkedin.com/in/jay-fukumoto/)!
 
 # 👓 Experience and Tools
 
