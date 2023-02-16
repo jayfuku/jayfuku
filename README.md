@@ -1,11 +1,9 @@
 # 👋 Hi There!
-😄 I'm Jay Fukumoto, a third year student at the **University of California, Irvine** (UCI) pursuing my bachelors in **Computer Science**. I aspire to become a **Software Engineer** and am currently seeking relevant internships for the summer of 2022.
-
-💼 I currenly work for **theCoderSchool Irvine** as a code coach where I teach children and teens how to code in languages such as **Scratch** and **Python**. I also develop programs for the students to recreate step-by-step in order to get practice with fundamental coding topics.
+😄 I'm Jay Fukumoto, a fourth year student at the **University of California, Irvine** (UCI) pursuing my bachelors in **Computer Science**. 
 
 📖 I enjoy learning new things and take every opportunity to grow as both a person and as a coder!
 
-⚡ Outside of coding, I enjoy playing Puzzle & Dragons and Super Smash Bros!
+⚡ Outside of coding, I enjoy playing videogames and being late to the train on Netflix shows!
 
 📫 You can reach me through direct messages on github or connect with me through [LinkedIn](https://www.linkedin.com/in/jay-fukumoto/)!
 
