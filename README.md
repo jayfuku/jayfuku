@@ -13,7 +13,7 @@
 * [**SteamPeek**](https://github.com/jayfuku/SteamPeek-Public), *Typescript* - *React* - *Express* - *Vite*
   - Constructed a responsive frontend client from scratch which makes searching information about games effortless.
   - Constructed a RESTful API backend which offloads intense processing off from the client.
-  - Designed a system which detects games that appear on the user's active tab and automatically begin a search.
+  - Designed a system which detects games that appear on the user's active tab and automatically begins a search.
 
 * [**HSREndgameDB**](https://hsr-endgame-db.vercel.app/), *Typescript* - *React* - *Vercel* - *NextJS* - *postgreSQL*
  - Constructed a dynamic website for sharing and viewing gameplay of "Honkai: Star Rail".
