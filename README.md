@@ -7,6 +7,27 @@
 
 📫 You can reach me through direct messages on github or connect with me through [LinkedIn](https://www.linkedin.com/in/jay-fukumoto/)!
 
+# 🥇 Notable Projects
+
+
+* [**SteamPeek**](https://github.com/jayfuku/SteamPeek-Public), *Typescript* - *React* - *Express* - *Vite*
+  - Constructed a responsive frontend client from scratch which makes searching information about games effortless.
+  - Constructed a RESTful API backend which offloads intense processing off from the client.
+  - Designed a system which detects games that appear on the user's active tab and automatically begin a search.
+
+* [**HSREndgameDB**](https://hsr-endgame-db.vercel.app/), *Typescript* - *React* - *Vercel* - *NextJS* - *postgreSQL*
+ - Constructed a dynamic website for sharing and viewing gameplay of "Honkai: Star Rail".
+ - Designed a postgreSQL backend for storage and retrieval of user submitted content.
+ - Implemented UI/UX designs which place an emphasis on usability across both mobile and desktop browser contexts.
+
+* **Street Map**, *C++*
+  - Developed a repesentation of a street map using directed graphs.
+  - Utilized **Dijkstra's Algorithm** to calcuate the shortest or fastest route between two locations
+
+* **Auction System**, *C*
+  - Developed an auction service which was capable of handling basic auction site operations
+  - Utilized **threading** to efficiently handle requests when multiple clients were connected
+ 
 # 👓 Experience and Tools
 ## Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
@@ -38,27 +59,6 @@
 [![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#)
 [![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?logo=couchbase&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-
-# 🥇 Notable Projects
-
-
-* [**SteamPeek**](https://github.com/jayfuku/SteamPeek-Public), *Typescript* - *React* - *Express* - *Vite*
-  - Constructed a responsive frontend client from scratch which makes searching information about games effortless.
-  - Constructed a RESTful API backend which offloads intense processing off from the client.
-  - Designed a system which detects games that appear on the user's active tab and automatically begin a search.
-
-* [**HSREndgameDB**](https://hsr-endgame-db.vercel.app/), *Typescript* - *React* - *Vercel* - *NextJS* - *postgreSQL*
- - Constructed a dynamic website for sharing and viewing gameplay of "Honkai: Star Rail".
- - Designed a postgreSQL backend for storage and retrieval of user submitted content.
- - Implemented UI/UX designs which place an emphasis on usability across both mobile and desktop browser contexts.
-
-* **Street Map**, *C++*
-  - Developed a repesentation of a street map using directed graphs.
-  - Utilized **Dijkstra's Algorithm** to calcuate the shortest or fastest route between two locations
-
-* **Auction System**, *C*
-  - Developed an auction service which was capable of handling basic auction site operations
-  - Utilized **threading** to efficiently handle requests when multiple clients were connected
 <!---
 jayfuku/jayfuku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
