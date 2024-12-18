@@ -29,7 +29,7 @@
   - Utilized **threading** to efficiently handle requests when multiple clients were connected
  
 # 👓 Experience and Tools
-## Languages
+### Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -39,21 +39,21 @@
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
-## Frameworks and Libraries
+### Frameworks and Libraries
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
-## Tools
+### Tools
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
-## Hosting
+### Hosting
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
-## DBMS
+### DBMS
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#)
