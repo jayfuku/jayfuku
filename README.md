@@ -16,9 +16,9 @@
   - Designed a system which detects games that appear on the user's active tab and automatically begins a search.
 
 * [**HSREndgameDB**](https://hsr-endgame-db.vercel.app/), *Typescript* - *React* - *Vercel* - *NextJS* - *postgreSQL*
- - Constructed a dynamic website for sharing and viewing gameplay of "Honkai: Star Rail".
- - Designed a postgreSQL backend for storage and retrieval of user submitted content.
- - Implemented UI/UX designs which place an emphasis on usability across both mobile and desktop browser contexts.
+   - Constructed a dynamic website for sharing and viewing gameplay of "Honkai: Star Rail".
+   - Designed a postgreSQL backend for storage and retrieval of user submitted content.
+   - Implemented UI/UX designs which place an emphasis on usability across both mobile and desktop browser contexts.
 
 * **Street Map**, *C++*
   - Developed a repesentation of a street map using directed graphs.
