@@ -5,7 +5,7 @@
 
 ⚡ Outside of coding, I love playing pickleball with my friends and being late to the train on Netflix shows!
 
-📫 You can reach me through direct messages on github or connect with me through [LinkedIn](https://www.linkedin.com/in/jay-fukumoto/)!
+📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/jay-fukumoto/) or create an issue on one of my projects if that's how you roll.
 
 # 🥇 Notable Projects
 
