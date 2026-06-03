@@ -22,9 +22,9 @@
   
   Game info lookup with automatic searching when you visit a site about games. RESTful API handles the heavy lifting server-side.
 
-  **ML Gameplay Tracker** *(in progress)* — TypeScript · Next.js · Python · Computer Vision
+  **[HSRVision](https://hsr-vision.app/)** - TypeScript · Next.js · Python · Computer Vision
   
-  Real-time battle stats tracker powered by a custom-trained ML model. Share your screen and it reads damage numbers live as they happen.
+  Real-time battle stats tracker powered by a custom trained ML model. Share your screen and it reads damage numbers live as they happen.
 
   ---
 
