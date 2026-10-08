@@ -14,7 +14,7 @@
 
   ## Projects
 
-  **[HSREndgameDB](https://hsr-endgame-db.vercel.app/)** — TypeScript · Next.js · React · PostgreSQL · Vercel
+  **[HSREndgameDB](https://hsrendgamedb.info)** — TypeScript · Next.js · React · PostgreSQL · Vercel
   
   Community platform for sharing and scoring endgame gameplay in *Honkai: Star Rail*. Full-stack with user-submitted content and mobile-first UI.
 
